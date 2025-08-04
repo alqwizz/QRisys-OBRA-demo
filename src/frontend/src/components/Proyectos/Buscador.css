@@ -1,0 +1,14 @@
+.looking-group {
+  padding: 4px 8px;
+  max-width: fit-content;
+  background-color: #3b899952;
+  border-radius: 25px;
+  display: flex;
+  align-items: center;
+}
+.looking-group input {
+  border: none;
+  padding: 4px;
+  font-size: 1.1em;
+  background-color: unset;
+}

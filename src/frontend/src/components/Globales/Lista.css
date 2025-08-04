@@ -1,0 +1,25 @@
+.qrisys-list{
+    margin-top:30px;
+}
+.qrisys-list>.list-item{
+    margin-top:15px;
+    box-shadow:var(--shadow-1);
+}
+.list-item .list-info{
+    display:flex;
+    align-items:center;
+    justify-content: space-between;
+    padding:15px;
+    font-size:1.2em;
+}
+.list-item .list-info .title{
+    text-transform:uppercase;
+    font-weight:bold;
+}
+.list-item .list-info .title span{
+    margin-right:4px;
+}
+.list-item .buttons i{
+    margin: 0 8px;
+    cursor:pointer;
+}

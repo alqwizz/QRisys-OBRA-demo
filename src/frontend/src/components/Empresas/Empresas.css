@@ -1,0 +1,58 @@
+.empresa-info{
+    border-top-left-radius: 30px;
+    box-shadow:var(--shadow-1);
+    display:grid;
+    grid-template-columns: 3fr 6fr 2fr;
+    grid-template-rows: 70px;
+    grid-column-gap:15px;
+    align-items:center;
+    padding:8px 15px;
+}
+.empresa-info img{
+    max-width:100%;
+    height:100%;
+    object-fit:contain;
+    grid-area:1/1;
+    padding-left:8px;
+}
+
+.proyecto-item{
+    font-weight:bold;
+    display:flex;
+    padding:15px;
+    justify-content:space-between;
+    margin:8px 0;
+    position:relative;
+    align-items:center;
+    box-shadow:var(--shadow-1);
+}
+.proyecto-item .title{
+    padding-left:30px;
+}
+.proyecto-item .buttons-row{
+    display:grid;
+    align-items:center;
+    grid-template-columns:auto auto;
+    grid-column-gap:15px;
+}
+.proyecto-item .buttons-row label{
+    margin-bottom:0;
+}
+.proyecto-item .lateral-indicator{
+    width:8px;
+    height:100%;
+    position:absolute;
+    left:0;
+    top:0;
+}
+
+@media screen and (max-width:600px){
+    .empresa-info{
+        grid-template-columns: 3fr 6fr 2fr;
+        grid-template-rows: 70px;
+        grid-column-gap:8px;
+    }
+    .empresa-info>img{
+        overflow:hidden;
+    }
+}

@@ -1,0 +1,34 @@
+import { Router } from 'express';
+import usuarioRoutes from './routes/usuario.routes';
+import authenticationRoutes from './routes/authentication.routes';
+import empresaRoutes from './routes/empresa.routes';
+import proyectoRoutes from './routes/proyecto.routes';
+import tareaRoutes from './routes/tarea.routes';
+import permisoRoutes from './routes/permiso.routes';
+import rolRoutes from './routes/rol.routes';
+import reporteProduccionRoutes from './routes/reporteProduccion.routes';
+import adquisicionesRoutes from './routes/adquisicion.routes';
+import pedidosRoutes from './routes/pedido.routes';
+import empresaSubcontrataRoutes from './routes/empresaSubcontrata.routes';
+import parteAsistenciaRoutes from './routes/parteAsistencia.routes';
+import avisosRoutes from './routes/aviso.routes';
+import certificacionRoutes from './routes/certificacion.routes';
+
+export default () => {
+    const app = Router();
+    usuarioRoutes(app);
+    authenticationRoutes(app);
+    empresaRoutes(app);
+    proyectoRoutes(app);
+    tareaRoutes(app);
+    rolRoutes(app);
+    permisoRoutes(app);
+    reporteProduccionRoutes(app);
+    adquisicionesRoutes(app);
+    pedidosRoutes(app);
+    empresaSubcontrataRoutes(app);
+    parteAsistenciaRoutes(app);
+    avisosRoutes(app);
+    certificacionRoutes(app);
+    return app;
+};

@@ -1,0 +1,36 @@
+.pedido-info{
+    display:grid;
+    box-shadow:var(--shadow-1);
+    position:relative;
+    margin: 15px 0;
+    border-bottom-right-radius: 30px;
+    padding-left:8px;
+}
+.pedido-info .item{
+    display:flex;
+    flex-direction:column;
+}
+.pedido-info--content{
+    display:grid;
+    grid-template-columns:repeat(4,2.5fr);
+    grid-column-gap:8px;
+    grid-template-rows:auto auto;
+    padding:15px 15px 15px 8px;
+    background-color: white;
+}
+.pedido-info i{
+    color:var(--verde-agua);
+    margin:4px;
+    cursor:pointer;
+    font-size:1.2em;
+}
+.pedido-info .comment{
+    display:grid;
+    grid-template-columns: 2fr 8fr;
+    padding:8px;
+}
+@media screen and (max-width:600px){
+.pedido-info .item{
+    font-size:.7em;
+}
+}

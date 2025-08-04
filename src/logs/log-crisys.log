@@ -1,0 +1,1179 @@
+[2020-8-25 9:47:43] info: MongoDB inicializado
+[2020-8-25 9:47:43] info: Express inicializado
+[2020-8-25 9:47:43] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[2020-8-25 9:47:43] error: Se ha producido un error findToday avisos
+[2020-8-25 9:47:43] error: Cannot read property '_id' of undefined
+[9/1/2020, 1:14:52 P9] info: MongoDB inicializado
+[9/1/2020, 1:14:52 P9] info: Express inicializado
+[9/1/2020, 1:14:52 P9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/1/2020, 1:22:59 P9] info: MongoDB inicializado
+[9/1/2020, 1:22:59 P9] info: Express inicializado
+[9/1/2020, 1:22:59 P9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/1/2020, 1:41:21 P9] info: MongoDB inicializado
+[9/1/2020, 1:41:21 P9] info: Express inicializado
+[9/1/2020, 1:41:21 P9] info: 
+[14/09/2020, 15:19:42] info: MongoDB inicializado
+[14/09/2020, 15:19:42] info: Express inicializado
+[14/09/2020, 15:19:42] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/2/2020, 1:42:57 P9] info: MongoDB inicializado
+[9/2/2020, 1:42:57 P9] info: Express inicializado
+[9/2/2020, 1:42:57 P9] info: 
+[14/09/2020, 15:19:42] error: Se ha producido un error findToday avisos
+[14/09/2020, 15:19:42] error: Cannot read property '_id' of undefined
+[14/09/2020, 15:19:42] error: Se ha producido un error en el metodo import planificacion
+[14/09/2020, 15:19:42] error: Tarea validation failed: medicion: Path `medicion` is required.
+[14/09/2020, 15:19:42] error: Se ha producido un error en el metodo import planificacion
+[14/09/2020, 15:19:42] error: Tarea validation failed: medicion: Path `medicion` is required.
+[14/09/2020, 15:19:42] error: Se ha producido un error en el metodo import planificacion
+[14/09/2020, 15:19:42] error: Cast to Number failed for value "21837,03" at path "presupuesto"
+[14/09/2020, 15:19:42] error: Se ha producido un error en el metodo import planificacion
+[14/09/2020, 15:19:42] error: Cast to Number failed for value "21837,03" at path "presupuesto"
+[14/09/2020, 15:19:42] error: Se ha producido un error en el metodo import planificacion
+[14/09/2020, 15:19:42] error: Tarea validation failed: medicion: Path `medicion` is required.
+[14/09/2020, 15:19:42] error: Se ha producido un error en el metodo import planificacion
+[14/09/2020, 15:19:42] error: Tarea validation failed: medicion: Path `medicion` is required.
+[14/09/2020, 15:19:42] error: Se ha producido un error en el metodo import planificacion
+[14/09/2020, 15:19:42] error: Cast to Number failed for value "21837,03" at path "presupuesto"
+[14/09/2020, 15:19:42] error: Se ha producido un error en el metodo import planificacion
+[14/09/2020, 15:19:42] error: Tarea validation failed: medicion: Path `medicion` is required.
+[14/09/2020, 15:19:42] error: Se ha producido un error findToday avisos
+[14/09/2020, 15:19:42] error: Cannot read property '_id' of undefined
+[14/09/2020, 15:19:42] error: Se ha producido un error en el metodo import planificacion
+[14/09/2020, 15:19:42] error: E11000 duplicate key error collection: QRiSYS.tareas index: codigo_1_proyecto_1 dup key: { codigo: "001", proyecto: ObjectId('5f5f91701c24b4333cc11937') }
+[15/09/2020, 10:18:34] info: MongoDB inicializado
+[15/09/2020, 10:18:34] info: Express inicializado
+[15/09/2020, 10:18:34] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/2/2020, 1:42:57 P9] error: Se ha producido un error findToday avisos
+[9/2/2020, 1:42:57 P9] error: Cannot read property '_id' of undefined
+[9/2/2020, 1:42:57 P9] error: Se ha producido un error en el metodo solicitarPresupuesto
+[9/2/2020, 1:42:57 P9] error: ENOENT: no such file or directory, mkdir 'mnt/hdd/Code/WD/Qrisys/src/api/data/temp/'
+[9/2/2020, 1:42:57 P9] error: Se ha producido un error en el metodo solicitarPresupuesto
+[9/2/2020, 1:42:57 P9] error: ENOENT: no such file or directory, mkdir 'mnt/hdd/Code/WD/Qrisys/src/api/data/temp/'
+[9/2/2020, 8:47:03 P9] info: MongoDB inicializado
+[9/2/2020, 8:47:03 P9] info: Express inicializado
+[9/2/2020, 8:47:03 P9] info: 
+[15/09/2020, 10:26:42] info: MongoDB inicializado
+[15/09/2020, 10:26:42] info: Express inicializado
+[15/09/2020, 10:26:42] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/2/2020, 8:47:03 P9] error: Se ha producido un error creando una pedido
+[9/2/2020, 8:47:03 P9] error: Cannot read property 'tipo' of undefined
+[9/2/2020, 8:47:03 P9] error: Se ha producido un error creando una pedido
+[9/2/2020, 8:47:03 P9] error: Cannot read property 'tipo' of undefined
+[9/2/2020, 8:47:03 P9] error: Se ha producido un error creando una pedido
+[9/2/2020, 8:47:03 P9] error: Cannot read property 'tipo' of undefined
+[9/2/2020, 8:47:03 P9] error: Se ha producido un error creando una pedido
+[9/2/2020, 8:47:03 P9] error: Cannot read property 'tipo' of undefined
+[9/2/2020, 8:47:03 P9] error: Se ha producido un error creando una pedido
+[9/2/2020, 8:47:03 P9] error: Cannot read property 'tipo' of undefined
+[9/2/2020, 8:53:01 P9] info: MongoDB inicializado
+[9/2/2020, 8:53:01 P9] info: Express inicializado
+[9/2/2020, 8:53:01 P9] info: 
+[15/09/2020, 10:26:42] error: Se ha producido un error findToday avisos
+[15/09/2020, 10:26:42] error: Cannot read property '_id' of undefined
+[15/09/2020, 10:26:42] error: Se ha producido un error findToday avisos
+[15/09/2020, 10:26:42] error: Cannot read property '_id' of undefined
+[15/09/2020, 10:26:42] error: Se ha producido un error en el metodo import planificacion
+[15/09/2020, 10:26:42] error: Cast to date failed for value "Invalid Date" at path "fInicio"
+[15/09/2020, 20:34:46] info: MongoDB inicializado
+[15/09/2020, 20:34:46] info: Express inicializado
+[15/09/2020, 20:34:46] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/2/2020, 8:53:01 P9] error: Se ha producido un error creando una pedido
+[9/2/2020, 8:53:01 P9] error: NaN
+[9/2/2020, 8:53:01 P9] error: Se ha producido un error creando una pedido
+[9/2/2020, 8:53:01 P9] error: NaN
+[9/2/2020, 8:53:01 P9] error: Se ha producido un error creando una pedido
+[9/2/2020, 8:53:01 P9] error: NaN
+[9/2/2020, 8:54:53 P9] info: MongoDB inicializado
+[9/2/2020, 8:54:53 P9] info: Express inicializado
+[9/2/2020, 8:54:53 P9] info: 
+[15/09/2020, 20:34:46] error: Se ha producido un error findToday avisos
+[15/09/2020, 20:34:46] error: Cannot read property '_id' of undefined
+[15/09/2020, 20:55:24] info: MongoDB inicializado
+[15/09/2020, 20:55:24] info: Express inicializado
+[15/09/2020, 20:55:24] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/2/2020, 8:57:50 P9] info: MongoDB inicializado
+[9/2/2020, 8:57:50 P9] info: Express inicializado
+[9/2/2020, 8:57:50 P9] info: 
+[15/09/2020, 20:55:24] error: Se ha producido un error findToday avisos
+[15/09/2020, 20:55:24] error: Cannot read property '_id' of undefined
+[15/09/2020, 20:55:24] error: Se ha producido un error creando un proyecto
+[15/09/2020, 20:55:24] error: Proyecto validation failed: nombre: Path `nombre` (`fd`) is shorter than the minimum allowed length (3).
+[15/09/2020, 20:55:24] error: Se ha producido un error creando un proyecto
+[15/09/2020, 20:55:24] error: Proyecto validation failed: nombre: Path `nombre` (`fd`) is shorter than the minimum allowed length (3).
+[16/09/2020, 02:11:49] info: MongoDB inicializado
+[16/09/2020, 02:11:49] info: Express inicializado
+[16/09/2020, 02:11:49] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/2/2020, 9:00:58 P9] info: MongoDB inicializado
+[9/2/2020, 9:00:58 P9] info: Express inicializado
+[9/2/2020, 9:00:58 P9] info: 
+[16/09/2020, 02:11:49] error: Se ha producido un error findToday avisos
+[16/09/2020, 02:11:49] error: Cannot read property '_id' of undefined
+[16/09/2020, 02:18:53] info: MongoDB inicializado
+[16/09/2020, 02:18:53] info: Express inicializado
+[16/09/2020, 02:18:53] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/2/2020, 9:00:58 P9] error: Se ha producido un error creando una pedido
+[9/2/2020, 9:00:58 P9] error: No se ha podido actualizar el proyecto.11235498723OTROS
+[9/2/2020, 9:02:54 P9] info: MongoDB inicializado
+[9/2/2020, 9:02:54 P9] info: Express inicializado
+[9/2/2020, 9:02:54 P9] info: 
+[16/09/2020, 02:18:53] error: Se ha producido un error findToday avisos
+[16/09/2020, 02:18:53] error: Cannot read property '_id' of undefined
+[16/09/2020, 10:29:25] info: MongoDB inicializado
+[16/09/2020, 10:29:25] info: Express inicializado
+[16/09/2020, 10:29:25] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/2/2020, 9:02:54 P9] error: Se ha producido un error creando una pedido
+[9/2/2020, 9:02:54 P9] error: No se ha podido actualizar el proyecto: NaN
+[9/2/2020, 9:03:43 P9] info: MongoDB inicializado
+[9/2/2020, 9:03:43 P9] info: Express inicializado
+[9/2/2020, 9:03:43 P9] info: 
+[16/09/2020, 10:29:25] error: Se ha producido un error findToday avisos
+[16/09/2020, 10:29:25] error: Cannot read property '_id' of undefined
+[16/09/2020, 12:25:27] info: MongoDB inicializado
+[16/09/2020, 12:25:27] info: Express inicializado
+[16/09/2020, 12:25:27] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/2/2020, 9:03:43 P9] error: Se ha producido un error creando una pedido
+[9/2/2020, 9:03:43 P9] error: No se ha podido actualizar el proyecto: NaN
+[9/2/2020, 9:04:24 P9] info: MongoDB inicializado
+[9/2/2020, 9:04:24 P9] info: Express inicializado
+[9/2/2020, 9:04:24 P9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/2/2020, 9:04:24 P9] error: Se ha producido un error creando una pedido
+[9/2/2020, 9:04:24 P9] error: No se ha podido actualizar el proyecto: 0
+[9/2/2020, 9:06:30 P9] info: MongoDB inicializado
+[9/2/2020, 9:06:30 P9] info: Express inicializado
+[9/2/2020, 9:06:30 P9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/2/2020, 9:06:45 P9] info: MongoDB inicializado
+[9/2/2020, 9:06:45 P9] info: Express inicializado
+[9/2/2020, 9:06:45 P9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/2/2020, 9:06:45 P9] error: Se ha producido un error creando una pedido
+[9/2/2020, 9:06:45 P9] error: No se ha podido actualizar el proyecto: NaN
+[9/2/2020, 9:06:45 P9] error: Se ha producido un error creando una pedido
+[9/2/2020, 9:06:45 P9] error: No se ha podido actualizar el proyecto: NaN
+[9/2/2020, 9:07:57 P9] info: MongoDB inicializado
+[9/2/2020, 9:07:57 P9] info: Express inicializado
+[9/2/2020, 9:07:57 P9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/2/2020, 9:07:57 P9] error: Se ha producido un error creando una pedido
+[9/2/2020, 9:07:57 P9] error: No se ha podido actualizar el proyecto: 1
+[9/2/2020, 9:08:40 P9] info: MongoDB inicializado
+[9/2/2020, 9:08:40 P9] info: Express inicializado
+[9/2/2020, 9:08:40 P9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/2/2020, 9:08:40 P9] error: Se ha producido un error creando una pedido
+[9/2/2020, 9:08:40 P9] error: No se ha podido actualizar el proyecto: 1235498723
+[9/2/2020, 9:08:40 P9] error: Se ha producido un error creando una pedido
+[9/2/2020, 9:08:40 P9] error: No se ha podido actualizar el proyecto: 1235498723
+[9/2/2020, 9:09:17 P9] info: MongoDB inicializado
+[9/2/2020, 9:09:17 P9] info: Express inicializado
+[9/2/2020, 9:09:17 P9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/4/2020, 11:37:38 AM9] info: MongoDB inicializado
+[9/4/2020, 11:37:38 AM9] info: Express inicializado
+[9/4/2020, 11:37:38 AM9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/4/2020, 11:37:38 AM9] error: Se ha producido un error en el metodo import planificacion
+[9/4/2020, 11:37:38 AM9] error: Tarea validation failed: medicion: Path `medicion` is required.
+[9/4/2020, 11:37:38 AM9] error: Se ha producido un error findToday avisos
+[9/4/2020, 11:37:38 AM9] error: Cannot read property '_id' of undefined
+[9/4/2020, 11:37:38 AM9] error: Se ha producido un error findToday avisos
+[9/4/2020, 11:37:38 AM9] error: Cannot read property '_id' of undefined
+[9/6/2020, 12:11:44 AM9] info: MongoDB inicializado
+[9/6/2020, 12:11:44 AM9] info: Express inicializado
+[9/6/2020, 12:11:44 AM9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/6/2020, 12:17:00 AM9] info: MongoDB inicializado
+[9/6/2020, 12:17:00 AM9] info: Express inicializado
+[9/6/2020, 12:17:00 AM9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/6/2020, 12:27:14 AM9] info: MongoDB inicializado
+[9/6/2020, 12:27:14 AM9] info: Express inicializado
+[9/6/2020, 12:27:14 AM9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/6/2020, 12:27:14 AM9] error: Se ha producido un error findToday avisos
+[9/6/2020, 12:27:14 AM9] error: Cannot read property '_id' of undefined
+[9/6/2020, 12:27:14 AM9] error: Se ha producido un error findToday avisos
+[9/6/2020, 12:27:14 AM9] error: Cannot read property '_id' of undefined
+[9/22/2020, 12:02:11 AM9] info: MongoDB inicializado
+[9/22/2020, 12:02:11 AM9] info: Express inicializado
+[9/22/2020, 12:02:11 AM9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/22/2020, 12:06:44 AM9] info: MongoDB inicializado
+[9/22/2020, 12:06:44 AM9] info: Express inicializado
+[9/22/2020, 12:06:44 AM9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/22/2020, 12:06:44 AM9] error: Se ha producido un error findToday avisos
+[9/22/2020, 12:06:44 AM9] error: Cannot read property '_id' of undefined
+[9/5/2020, 12:39:55 AM9] info: MongoDB inicializado
+[9/5/2020, 12:39:55 AM9] info: Express inicializado
+[9/5/2020, 12:39:55 AM9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/5/2020, 12:39:55 AM9] error: Se ha producido un error creando una pedido
+[9/5/2020, 12:39:55 AM9] error: 1728
+[9/5/2020, 12:39:55 AM9] error: Se ha producido un error creando una pedido
+[9/5/2020, 12:39:55 AM9] error: 1728
+[9/5/2020, 12:41:30 AM9] info: MongoDB inicializado
+[9/5/2020, 12:41:30 AM9] info: Express inicializado
+[9/5/2020, 12:41:30 AM9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/5/2020, 1:09:31 AM9] info: MongoDB inicializado
+[9/5/2020, 1:09:31 AM9] info: Express inicializado
+[9/5/2020, 1:09:31 AM9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/5/2020, 1:09:31 AM9] error: Se ha producido un error al rechazar el pedido.
+[9/5/2020, 1:09:31 AM9] error: Sat Sep 05 2020 00:39:58 GMT+0200 (Central European Summer Time)
+[9/5/2020, 1:11:03 AM9] info: MongoDB inicializado
+[9/5/2020, 1:11:03 AM9] info: Express inicializado
+[9/5/2020, 1:11:03 AM9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/5/2020, 1:11:03 AM9] error: Se ha producido un error al rechazar el pedido.
+[9/5/2020, 1:11:03 AM9] error: 1728
+[9/5/2020, 1:13:07 AM9] info: MongoDB inicializado
+[9/5/2020, 1:14:54 AM9] info: MongoDB inicializado
+[9/5/2020, 1:14:54 AM9] info: Express inicializado
+[9/5/2020, 1:14:54 AM9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/5/2020, 1:14:54 AM9] error: Se ha producido un error al rechazar el pedido.
+[9/5/2020, 1:14:54 AM9] error: No se puede rechazar este pedido.
+[9/5/2020, 1:16:29 AM9] info: MongoDB inicializado
+[9/5/2020, 1:16:29 AM9] info: Express inicializado
+[9/5/2020, 1:16:29 AM9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/5/2020, 1:23:20 AM9] info: MongoDB inicializado
+[9/5/2020, 1:23:20 AM9] info: Express inicializado
+[9/5/2020, 1:23:20 AM9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/5/2020, 1:23:20 AM9] error: Se ha producido un error editando una reporteProduccion
+[9/5/2020, 1:23:20 AM9] error: NaN
+[9/5/2020, 1:24:17 AM9] info: MongoDB inicializado
+[9/5/2020, 1:24:17 AM9] info: Express inicializado
+[9/5/2020, 1:24:17 AM9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/5/2020, 1:24:17 AM9] error: Se ha producido un error editando una reporteProduccion
+[9/5/2020, 1:24:17 AM9] error: 5.916666666666667
+[9/5/2020, 1:26:02 AM9] info: MongoDB inicializado
+[9/5/2020, 1:26:26 AM9] info: MongoDB inicializado
+[9/5/2020, 1:26:26 AM9] info: Express inicializado
+[9/5/2020, 1:26:26 AM9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/5/2020, 1:26:26 AM9] error: Se ha producido un error editando una reporteProduccion
+[9/5/2020, 1:26:26 AM9] error: 468.163
+[9/5/2020, 1:26:26 AM9] error: Se ha producido un error editando una reporteProduccion
+[9/5/2020, 1:26:26 AM9] error: 468.163
+[9/5/2020, 1:27:24 AM9] info: MongoDB inicializado
+[9/5/2020, 1:27:24 AM9] info: Express inicializado
+[9/5/2020, 1:27:24 AM9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/5/2020, 1:29:44 AM9] info: MongoDB inicializado
+[9/5/2020, 1:29:44 AM9] info: Express inicializado
+[9/5/2020, 1:29:44 AM9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/5/2020, 1:29:44 AM9] error: Se ha producido un error findToday avisos
+[9/5/2020, 1:29:44 AM9] error: Cannot read property '_id' of undefined
+[9/6/2020, 3:57:50 AM9] info: MongoDB inicializado
+[9/6/2020, 3:57:50 AM9] info: Express inicializado
+[9/6/2020, 3:57:50 AM9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/5/2020, 2:01:42 P9] info: MongoDB inicializado
+[9/5/2020, 2:01:42 P9] info: Express inicializado
+[9/5/2020, 2:01:42 P9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/5/2020, 2:20:51 P9] info: MongoDB inicializado
+[9/5/2020, 2:20:51 P9] info: Express inicializado
+[9/5/2020, 2:20:51 P9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/9/2020, 11:15:44 AM9] info: MongoDB inicializado
+[9/9/2020, 11:15:44 AM9] info: Express inicializado
+[9/9/2020, 11:15:44 AM9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/10/2020, 11:28:17 AM9] info: MongoDB inicializado
+[9/10/2020, 11:28:17 AM9] info: Express inicializado
+[9/10/2020, 11:28:17 AM9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/10/2020, 11:28:17 AM9] error: Se ha producido un error findToday avisos
+[9/10/2020, 11:28:17 AM9] error: Cannot read property '_id' of undefined
+[9/11/2020, 7:24:22 P9] info: MongoDB inicializado
+[9/11/2020, 7:24:22 P9] info: Express inicializado
+[9/11/2020, 7:24:22 P9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/11/2020, 7:24:22 P9] error: Se ha producido un error findToday avisos
+[9/11/2020, 7:24:22 P9] error: Cannot read property '_id' of undefined
+[9/11/2020, 7:24:22 P9] error: Se ha producido un error al aceptar el pedido.
+[9/11/2020, 7:24:22 P9] error: Cannot read property 'length' of undefined
+[9/11/2020, 7:24:22 P9] error: Se ha producido un error al aceptar el pedido.
+[9/11/2020, 7:24:22 P9] error: Cannot read property 'length' of undefined
+[9/11/2020, 7:24:22 P9] error: Se ha producido un error al aceptar el pedido.
+[9/11/2020, 7:24:22 P9] error: Cannot read property 'length' of undefined
+[9/11/2020, 7:24:22 P9] error: Se ha producido un error al aceptar el pedido.
+[9/11/2020, 7:24:22 P9] error: Cannot read property 'length' of undefined
+[9/11/2020, 7:32:54 P9] info: MongoDB inicializado
+[9/11/2020, 7:32:54 P9] info: Express inicializado
+[9/11/2020, 7:32:54 P9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/11/2020, 7:32:54 P9] error: Se ha producido un error al aceptar el pedido.
+[9/11/2020, 7:32:54 P9] error: { estadosMaquinas: [],
+  estadoMaterial: 'ENTREGADO',
+  reportes: [],
+  precio: 80,
+  unidad: 'h',
+  tipo: 'OTROS',
+  nombre: 'new',
+  _id: '5f525f48b4eff4d119e08a39',
+  cantidad: 43 },{ estadosMaquinas: [],
+  estadoMaterial: 'PENDIENTE',
+  reportes: [],
+  precio: 50,
+  unidad: 'h',
+  tipo: 'MAQUINA',
+  nombre: 'Maquina 1',
+  _id: '5f525f16b4eff4d119e08a2d',
+  cantidad: 1 }
+[9/11/2020, 7:34:50 P9] info: MongoDB inicializado
+[9/11/2020, 7:34:50 P9] info: Express inicializado
+[9/11/2020, 7:34:50 P9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/11/2020, 7:34:50 P9] error: Se ha producido un error al aceptar el pedido.
+[9/11/2020, 7:34:50 P9] error: undefined
+[9/11/2020, 7:34:50 P9] error: Se ha producido un error al aceptar el pedido.
+[9/11/2020, 7:34:50 P9] error: undefined
+[9/11/2020, 8:24:20 P9] info: MongoDB inicializado
+[9/11/2020, 8:24:20 P9] info: Express inicializado
+[9/11/2020, 8:24:20 P9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/14/2020, 11:54:47 AM9] info: MongoDB inicializado
+[9/14/2020, 11:54:47 AM9] info: Express inicializado
+[9/14/2020, 11:54:47 AM9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/15/2020, 11:13:52 AM9] info: MongoDB inicializado
+[9/15/2020, 11:13:52 AM9] info: Express inicializado
+[9/15/2020, 11:13:52 AM9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/15/2020, 11:13:52 AM9] error: Se ha producido un error findToday avisos
+[9/15/2020, 11:13:52 AM9] error: Cannot read property '_id' of undefined
+[9/15/2020, 6:00:31 P9] info: MongoDB inicializado
+[9/15/2020, 6:00:31 P9] info: Express inicializado
+[9/15/2020, 6:00:31 P9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/16/2020, 12:17:19 P9] info: MongoDB inicializado
+[9/16/2020, 12:17:19 P9] info: Express inicializado
+[9/16/2020, 12:17:19 P9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/16/2020, 12:17:19 P9] error: Se ha producido un error findToday avisos
+[9/16/2020, 12:17:19 P9] error: Cannot read property '_id' of undefined
+[9/16/2020, 12:17:19 P9] error: Se ha producido un error findToday avisos
+[9/16/2020, 12:17:19 P9] error: Cannot read property '_id' of undefined
+[9/17/2020, 11:50:18 AM9] info: MongoDB inicializado
+[9/17/2020, 11:50:18 AM9] info: Express inicializado
+[9/17/2020, 11:50:18 AM9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/17/2020, 11:50:18 AM9] error: Se ha producido un error findToday avisos
+[9/17/2020, 11:50:18 AM9] error: Cannot read property '_id' of undefined
+[9/17/2020, 11:50:18 AM9] error: Se ha producido un error findToday avisos
+[9/17/2020, 11:50:18 AM9] error: Cannot read property '_id' of undefined
+[9/17/2020, 11:50:18 AM9] error: Se ha producido un error en el metodo import planificacion
+[9/17/2020, 11:50:18 AM9] error: E11000 duplicate key error collection: QRiSYS.tareas index: codigo_1_proyecto_1 dup key: { codigo: "001", proyecto: ObjectId('5f63325dcc6aef41e5b72b62') }
+[9/17/2020, 11:50:18 PM9] error: Se ha producido un error en el metodo import planificacion
+[9/17/2020, 11:50:18 PM9] error: E11000 duplicate key error collection: QRiSYS.adquisicions index: nombre_1_empresaSubcontrata_1 dup key: { nombre: "Esmalte poliuretano 2 componentes PALCRIPUL ESMALTE", empresaSubcontrata: ObjectId('5f6334adcc6aef41e5b735f4') }
+[9/17/2020, 12:08:44 P9] info: MongoDB inicializado
+[9/17/2020, 12:08:44 P9] info: Express inicializado
+[9/17/2020, 12:08:44 P9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/17/2020, 12:08:44 P9] error: Se ha producido un error en el metodo import planificacion
+[9/17/2020, 12:08:44 P9] error: E11000 duplicate key error collection: QRiSYS.tareas index: codigo_1_proyecto_1 dup key: { codigo: "001", proyecto: ObjectId('5f6333c9cc6aef41e5b72bb1') }
+[9/17/2020, 12:08:44 P9] error: Se ha producido un error findToday avisos
+[9/17/2020, 12:08:44 P9] error: Cannot read property '_id' of undefined
+[9/17/2020, 12:30:58 P9] info: MongoDB inicializado
+[9/17/2020, 12:30:58 P9] info: Express inicializado
+[9/17/2020, 12:30:58 P9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/17/2020, 12:38:13 P9] info: MongoDB inicializado
+[9/17/2020, 12:38:13 P9] info: Express inicializado
+[9/17/2020, 12:38:13 P9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/17/2020, 12:45:48 P9] info: MongoDB inicializado
+[9/17/2020, 12:45:48 P9] info: Express inicializado
+[9/17/2020, 12:45:48 P9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/17/2020, 12:49:47 P9] info: MongoDB inicializado
+[9/17/2020, 12:49:47 P9] info: Express inicializado
+[9/17/2020, 12:49:47 P9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/17/2020, 12:52:50 P9] info: MongoDB inicializado
+[9/17/2020, 12:52:50 P9] info: Express inicializado
+[9/17/2020, 12:52:50 P9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/17/2020, 12:54:46 P9] info: MongoDB inicializado
+[9/17/2020, 12:54:46 P9] info: Express inicializado
+[9/17/2020, 12:54:46 P9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/17/2020, 12:57:12 P9] info: MongoDB inicializado
+[9/17/2020, 12:57:12 P9] info: Express inicializado
+[9/17/2020, 12:57:12 P9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/17/2020, 1:21:29 P9] info: MongoDB inicializado
+[9/17/2020, 1:21:29 P9] info: Express inicializado
+[9/17/2020, 1:21:29 P9] info: 
+[16/09/2020, 12:25:27] error: Se ha producido un error findToday avisos
+[16/09/2020, 12:25:27] error: Cannot read property '_id' of undefined
+[16/09/2020, 16:51:50] info: MongoDB inicializado
+[16/09/2020, 16:51:50] info: Express inicializado
+[16/09/2020, 16:51:50] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[16/09/2020, 16:51:50] error: Se ha producido un error findToday avisos
+[16/09/2020, 16:51:50] error: Cannot read property '_id' of undefined
+[16/09/2020, 16:51:50] error: Se ha producido un error findToday avisos
+[16/09/2020, 16:51:50] error: Cannot read property '_id' of undefined
+[17/09/2020, 17:10:06] info: MongoDB inicializado
+[17/09/2020, 17:10:06] info: Express inicializado
+[17/09/2020, 17:10:06] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[17/09/2020, 17:10:06] error: Se ha producido un error findToday avisos
+[17/09/2020, 17:10:06] error: Cannot read property '_id' of undefined
+[17/09/2020, 18:00:28] info: MongoDB inicializado
+[17/09/2020, 18:00:28] info: Express inicializado
+[17/09/2020, 18:00:28] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[17/09/2020, 18:00:28] error: Se ha producido un error findToday avisos
+[17/09/2020, 18:00:28] error: Cannot read property '_id' of undefined
+[17/09/2020, 20:50:22] info: MongoDB inicializado
+[17/09/2020, 20:50:22] info: Express inicializado
+[17/09/2020, 20:50:22] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[17/09/2020, 20:50:22] error: Se ha producido un error findToday avisos
+[17/09/2020, 20:50:22] error: Cannot read property '_id' of undefined
+[17/09/2020, 20:50:22] error: Se ha producido un error findToday avisos
+[17/09/2020, 20:50:22] error: Cannot read property '_id' of undefined
+[18/09/2020, 00:55:42] info: MongoDB inicializado
+[18/09/2020, 00:55:42] info: Express inicializado
+[18/09/2020, 00:55:42] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[18/09/2020, 00:55:42] error: Se ha producido un error findToday avisos
+[18/09/2020, 00:55:42] error: Cannot read property '_id' of undefined
+[18/09/2020, 11:36:02] info: MongoDB inicializado
+[18/09/2020, 11:36:02] info: Express inicializado
+[18/09/2020, 11:36:02] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[18/09/2020, 11:36:02] error: Se ha producido un error findToday avisos
+[18/09/2020, 11:36:02] error: Cannot read property '_id' of undefined
+[18/09/2020, 19:47:35] info: MongoDB inicializado
+[18/09/2020, 19:47:35] info: Express inicializado
+[18/09/2020, 19:47:35] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[18/09/2020, 19:47:35] error: Se ha producido un error findToday avisos
+[18/09/2020, 19:47:35] error: Cannot read property '_id' of undefined
+[19/09/2020, 12:49:18] info: MongoDB inicializado
+[19/09/2020, 12:49:18] info: Express inicializado
+[19/09/2020, 12:49:18] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[19/09/2020, 12:49:18] error: Se ha producido un error findToday avisos
+[19/09/2020, 12:49:18] error: Cannot read property '_id' of undefined
+[9/21/2020, 7:05:25 P9] info: MongoDB inicializado
+[9/21/2020, 7:05:25 P9] info: Express inicializado
+[9/21/2020, 7:05:25 P9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/29/2020, 10:34:01 AM9] info: MongoDB inicializado
+[9/29/2020, 10:34:01 AM9] info: Express inicializado
+[9/29/2020, 10:34:01 AM9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/29/2020, 10:34:01 AM9] error: Se ha producido un error findToday avisos
+[9/29/2020, 10:34:01 AM9] error: Cannot read property '_id' of undefined
+[9/29/2020, 10:39:48 AM9] info: MongoDB inicializado
+[9/29/2020, 10:39:48 AM9] info: Express inicializado
+[9/29/2020, 10:39:48 AM9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/29/2020, 11:02:02 AM9] info: MongoDB inicializado
+[9/29/2020, 11:02:02 AM9] info: Express inicializado
+[9/29/2020, 11:02:02 AM9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/29/2020, 11:14:52 AM9] info: MongoDB inicializado
+[9/29/2020, 11:15:27 AM9] info: MongoDB inicializado
+[9/29/2020, 11:28:37 AM9] info: MongoDB inicializado
+[9/29/2020, 11:28:37 AM9] info: Express inicializado
+[9/29/2020, 11:28:37 AM9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/29/2020, 11:46:24 AM9] info: MongoDB inicializado
+[9/29/2020, 11:46:24 AM9] info: Express inicializado
+[9/29/2020, 11:46:24 AM9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/29/2020, 12:08:30 P9] info: MongoDB inicializado
+[9/29/2020, 12:08:30 P9] info: Express inicializado
+[9/29/2020, 12:08:30 P9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/29/2020, 12:12:46 P9] info: MongoDB inicializado
+[9/29/2020, 12:12:46 P9] info: Express inicializado
+[9/29/2020, 12:12:46 P9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/29/2020, 12:13:51 P9] info: MongoDB inicializado
+[9/29/2020, 12:13:51 P9] info: Express inicializado
+[9/29/2020, 12:13:51 P9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/29/2020, 12:14:24 P9] info: MongoDB inicializado
+[9/29/2020, 12:14:24 P9] info: Express inicializado
+[9/29/2020, 12:14:24 P9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/29/2020, 12:19:48 P9] info: MongoDB inicializado
+[9/29/2020, 12:19:48 P9] info: Express inicializado
+[9/29/2020, 12:19:48 P9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/29/2020, 12:21:11 P9] info: MongoDB inicializado
+[9/29/2020, 12:21:11 P9] info: Express inicializado
+[9/29/2020, 12:21:11 P9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/29/2020, 12:23:25 P9] info: MongoDB inicializado
+[9/29/2020, 12:23:25 P9] info: Express inicializado
+[9/29/2020, 12:23:25 P9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/29/2020, 12:26:18 P9] info: MongoDB inicializado
+[9/29/2020, 12:26:18 P9] info: Express inicializado
+[9/29/2020, 12:26:18 P9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/29/2020, 12:28:16 P9] info: MongoDB inicializado
+[9/29/2020, 12:28:16 P9] info: Express inicializado
+[9/29/2020, 12:28:16 P9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/29/2020, 12:38:52 P9] info: MongoDB inicializado
+[9/29/2020, 12:38:52 P9] info: Express inicializado
+[9/29/2020, 12:38:52 P9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/29/2020, 1:32:12 P9] info: MongoDB inicializado
+[9/29/2020, 1:32:12 P9] info: Express inicializado
+[9/29/2020, 1:32:12 P9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/30/2020, 11:30:46 AM9] info: MongoDB inicializado
+[9/30/2020, 11:30:46 AM9] info: Express inicializado
+[9/30/2020, 11:30:46 AM9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/30/2020, 11:30:46 AM9] error: Se ha producido un error findToday avisos
+[9/30/2020, 11:30:46 AM9] error: Cannot read property '_id' of undefined
+[9/30/2020, 11:42:10 AM9] info: MongoDB inicializado
+[9/30/2020, 11:42:10 AM9] info: Express inicializado
+[9/30/2020, 11:42:10 AM9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/30/2020, 12:13:09 P9] info: MongoDB inicializado
+[9/30/2020, 12:13:09 P9] info: Express inicializado
+[9/30/2020, 12:13:09 P9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/30/2020, 12:14:59 P9] info: MongoDB inicializado
+[9/30/2020, 12:14:59 P9] info: Express inicializado
+[9/30/2020, 12:14:59 P9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/30/2020, 12:22:16 P9] info: MongoDB inicializado
+[9/30/2020, 12:22:16 P9] info: Express inicializado
+[9/30/2020, 12:22:16 P9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/30/2020, 12:23:34 P9] info: MongoDB inicializado
+[9/30/2020, 12:23:34 P9] info: Express inicializado
+[9/30/2020, 12:23:34 P9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/30/2020, 12:28:23 P9] info: MongoDB inicializado
+[9/30/2020, 12:28:23 P9] info: Express inicializado
+[9/30/2020, 12:28:23 P9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/30/2020, 12:29:53 P9] info: MongoDB inicializado
+[9/30/2020, 12:29:53 P9] info: Express inicializado
+[9/30/2020, 12:29:53 P9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/30/2020, 12:37:10 P9] info: MongoDB inicializado
+[9/30/2020, 12:37:10 P9] info: Express inicializado
+[9/30/2020, 12:37:10 P9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/30/2020, 12:37:10 P9] error: Se ha producido un error al editar la CTECI
+[9/30/2020, 12:37:10 P9] error: Proyecto validation failed: CTECI: Cast to [undefined] failed for value "[1,34,5,34,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,56,null]" at path "CTECI"
+[9/30/2020, 12:38:42 P9] info: MongoDB inicializado
+[9/30/2020, 12:38:42 P9] info: Express inicializado
+[9/30/2020, 12:38:42 P9] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[9/30/2020, 12:38:42 P9] error: Se ha producido un error al editar la CTECI
+[9/30/2020, 12:38:42 P9] error: Proyecto validation failed: CTECI: Cast to [undefined] failed for value "[1,34,5,34,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,56,null]" at path "CTECI"
+[10/7/2020, 4:25:36 P10] info: MongoDB inicializado
+[10/7/2020, 4:25:36 P10] info: Express inicializado
+[10/7/2020, 4:25:36 P10] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[10/7/2020, 4:31:42 P10] info: MongoDB inicializado
+[10/7/2020, 4:31:42 P10] info: Express inicializado
+[10/7/2020, 4:31:42 P10] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[10/7/2020, 4:34:40 P10] info: MongoDB inicializado
+[10/7/2020, 4:34:40 P10] info: Express inicializado
+[10/7/2020, 4:34:40 P10] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[10/7/2020, 4:35:49 P10] info: MongoDB inicializado
+[10/7/2020, 4:35:49 P10] info: Express inicializado
+[10/7/2020, 4:35:49 P10] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[10/7/2020, 4:38:51 P10] info: MongoDB inicializado
+[10/7/2020, 4:38:51 P10] info: Express inicializado
+[10/7/2020, 4:38:51 P10] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[10/7/2020, 4:40:09 P10] info: MongoDB inicializado
+[10/7/2020, 4:40:09 P10] info: Express inicializado
+[10/7/2020, 4:40:09 P10] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[10/7/2020, 4:42:50 P10] info: MongoDB inicializado
+[10/7/2020, 4:42:50 P10] info: Express inicializado
+[10/7/2020, 4:42:50 P10] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[10/7/2020, 4:50:18 P10] info: MongoDB inicializado
+[10/7/2020, 4:50:18 P10] info: Express inicializado
+[10/7/2020, 4:50:18 P10] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[10/7/2020, 4:51:32 P10] info: MongoDB inicializado
+[10/7/2020, 4:51:32 P10] info: Express inicializado
+[10/7/2020, 4:51:32 P10] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[10/7/2020, 4:52:46 P10] info: MongoDB inicializado
+[10/7/2020, 4:52:46 P10] info: Express inicializado
+[10/7/2020, 4:52:46 P10] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[10/7/2020, 5:00:31 P10] info: MongoDB inicializado
+[10/7/2020, 5:00:31 P10] info: Express inicializado
+[10/7/2020, 5:00:31 P10] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[10/7/2020, 5:01:19 P10] info: MongoDB inicializado
+[10/7/2020, 5:01:19 P10] info: Express inicializado
+[10/7/2020, 5:01:19 P10] info: 
+              ################################################
+              🛡️  Server listening on port: 5000 🛡️ 
+              ################################################
+            
+[10/13/2020, 4:23:31 P10] info: MongoDB inicializado
+[10/13/2020, 4:23:31 P10] info: Express inicializado
+[10/13/2020, 4:23:31 P10] info: 
+              ################################################
+              🛡️  HTTPS listening on port: 5000 🛡️
+              🛡️  HTTP listening on port: 5001 🛡️ 
+              ################################################
+            
+[10/13/2020, 4:59:49 P10] info: MongoDB inicializado
+[10/13/2020, 5:02:04 P10] info: MongoDB inicializado
+[10/13/2020, 5:02:04 P10] info: Express inicializado
+[10/13/2020, 5:02:04 P10] info: 
+                ################################################
+                🛡️  HTTP listening on port: 5000 🛡️ 
+                ################################################
+              
+[10/13/2020, 5:02:04 P10] error: Se ha producido un error findToday avisos
+[10/13/2020, 5:02:04 P10] error: Cannot read property '_id' of undefined
+[10/13/2020, 5:02:04 P10] error: Se ha producido un error findToday avisos
+[10/13/2020, 5:02:04 P10] error: Cannot read property '_id' of undefined
+[10/13/2020, 5:02:04 P10] error: Se ha producido un error findToday avisos
+[10/13/2020, 5:02:04 P10] error: Cannot read property '_id' of undefined
+[10/13/2020, 5:02:04 P10] error: Se ha producido un error findToday avisos
+[10/13/2020, 5:02:04 P10] error: Cannot read property '_id' of undefined
+[10/13/2020, 5:02:04 P10] error: Se ha producido un error findToday avisos
+[10/13/2020, 5:02:04 P10] error: Cannot read property '_id' of undefined
+[10/13/2020, 5:02:04 P10] error: Se ha producido un error findToday avisos
+[10/13/2020, 5:02:04 P10] error: Cannot read property '_id' of undefined
+[10/15/2020, 5:23:46 P10] info: MongoDB inicializado
+[10/15/2020, 5:23:46 P10] info: Express inicializado
+[10/15/2020, 5:23:46 P10] info: 
+                ################################################
+                🛡️  HTTP listening on port: 5000 🛡️ 
+                ################################################
+              
+[10/15/2020, 5:23:46 P10] error: Se ha producido un error findToday avisos
+[10/15/2020, 5:23:46 P10] error: Cannot read property '_id' of undefined
+[10/20/2020, 10:17:51 AM10] info: MongoDB inicializado
+[10/20/2020, 10:17:51 AM10] info: Express inicializado
+[10/20/2020, 10:17:51 AM10] info: 
+                ################################################
+                🛡️  HTTP listening on port: 5000 🛡️ 
+                ################################################
+              
+[10/20/2020, 10:17:51 AM10] error: Se ha producido un error findToday avisos
+[10/20/2020, 10:17:51 AM10] error: Cannot read property '_id' of undefined
+[10/20/2020, 10:17:51 PM10] error: Se ha producido un error findToday avisos
+[10/20/2020, 10:17:51 PM10] error: Cannot read property '_id' of undefined
+[10/22/2020, 4:01:20 P10] info: MongoDB inicializado
+[10/22/2020, 4:01:20 P10] info: Express inicializado
+[10/22/2020, 4:01:20 P10] info: 
+                ################################################
+                🛡️  HTTP listening on port: 5000 🛡️ 
+                ################################################
+              
+[10/22/2020, 4:01:20 P10] error: Se ha producido un error findToday avisos
+[10/22/2020, 4:01:20 P10] error: Cannot read property '_id' of undefined
+[10/22/2020, 4:50:13 P10] info: MongoDB inicializado
+[10/22/2020, 4:50:38 P10] info: MongoDB inicializado
+[10/22/2020, 4:50:38 P10] info: Express inicializado
+[10/22/2020, 4:50:38 P10] info: 
+                ################################################
+                🛡️  HTTP listening on port: 5000 🛡️ 
+                ################################################
+              
+[10/22/2020, 4:52:42 P10] info: MongoDB inicializado
+[10/22/2020, 4:52:42 P10] info: Express inicializado
+[10/22/2020, 4:52:42 P10] info: 
+                ################################################
+                🛡️  HTTP listening on port: 5000 🛡️ 
+                ################################################
+              
+[10/22/2020, 4:52:42 P10] error: Se ha producido un error creando una reporteProduccion
+[10/22/2020, 4:52:42 P10] error: Can't save() the same doc multiple times in parallel. Document: 5f72f66462eeee21ae1c7ad2
+[10/22/2020, 4:58:43 P10] info: MongoDB inicializado
+[10/22/2020, 4:58:43 P10] info: Express inicializado
+[10/22/2020, 4:58:43 P10] info: 
+                ################################################
+                🛡️  HTTP listening on port: 5000 🛡️ 
+                ################################################
+              
+[10/22/2020, 5:04:25 P10] info: MongoDB inicializado
+[10/22/2020, 5:04:25 P10] info: Express inicializado
+[10/22/2020, 5:04:25 P10] info: 
+                ################################################
+                🛡️  HTTP listening on port: 5000 🛡️ 
+                ################################################
+              
+[10/22/2020, 5:05:57 P10] info: MongoDB inicializado
+[10/22/2020, 5:05:57 P10] info: Express inicializado
+[10/22/2020, 5:05:57 P10] info: 
+                ################################################
+                🛡️  HTTP listening on port: 5000 🛡️ 
+                ################################################
+              
+[10/22/2020, 5:05:57 P10] error: Se ha producido un error creando una reporteProduccion
+[10/22/2020, 5:05:57 P10] error: Proyecto validation failed: CTECI: Cast to [undefined] failed for value "[null,null]" at path "CTECI"
+[10/22/2020, 5:15:39 P10] info: MongoDB inicializado
+[10/22/2020, 5:15:39 P10] info: Express inicializado
+[10/22/2020, 5:15:39 P10] info: 
+                ################################################
+                🛡️  HTTP listening on port: 5000 🛡️ 
+                ################################################
+              
+[10/22/2020, 5:17:42 P10] info: MongoDB inicializado
+[10/22/2020, 5:17:42 P10] info: Express inicializado
+[10/22/2020, 5:17:42 P10] info: 
+                ################################################
+                🛡️  HTTP listening on port: 5000 🛡️ 
+                ################################################
+              
+[10/22/2020, 5:19:37 P10] info: MongoDB inicializado
+[10/22/2020, 5:19:37 P10] info: Express inicializado
+[10/22/2020, 5:19:37 P10] info: 
+                ################################################
+                🛡️  HTTP listening on port: 5000 🛡️ 
+                ################################################
+              
+[10/23/2020, 12:30:34 AM10] info: MongoDB inicializado
+[10/23/2020, 12:30:34 AM10] info: Express inicializado
+[10/23/2020, 12:30:34 AM10] info: 
+                ################################################
+                🛡️  HTTP listening on port: 5000 🛡️ 
+                ################################################
+              
+[10/23/2020, 12:30:34 AM10] error: Se ha producido un error findToday avisos
+[10/23/2020, 12:30:34 AM10] error: Cannot read property '_id' of undefined
+[10/23/2020, 12:30:34 AM10] error: Se ha producido un error findToday avisos
+[10/23/2020, 12:30:34 AM10] error: Cannot read property '_id' of undefined
+[10/23/2020, 12:30:34 AM10] error: Se ha producido un error findToday avisos
+[10/23/2020, 12:30:34 AM10] error: Cannot read property '_id' of undefined
+[10/23/2020, 12:30:34 AM10] error: Se ha producido un error findToday avisos
+[10/23/2020, 12:30:34 AM10] error: Cannot read property '_id' of undefined
+[10/23/2020, 12:30:34 AM10] error: Se ha producido un error creando una reporteProduccion
+[10/23/2020, 12:30:34 AM10] error: Proyecto validation failed: CTECI: Cast to [undefined] failed for value "[null,null]" at path "CTECI"
+[10/26/2020, 5:04:25 P10] info: MongoDB inicializado
+[10/26/2020, 5:04:25 P10] info: Express inicializado
+[10/26/2020, 5:04:25 P10] info: 
+                ################################################
+                🛡️  HTTP listening on port: 5000 🛡️ 
+                ################################################
+              
+[10/26/2020, 5:04:25 P10] error: Se ha producido un error findToday avisos
+[10/26/2020, 5:04:25 P10] error: Cannot read property '_id' of undefined
+[10/26/2020, 5:04:25 P10] error: Se ha producido un error creando una reporteProduccion
+[10/26/2020, 5:04:25 P10] error: Proyecto validation failed: CTECI: Cast to [undefined] failed for value "[null,null,null,null]" at path "CTECI"
+[10/26/2020, 5:04:25 P10] error: Se ha producido un error creando una reporteProduccion
+[10/26/2020, 5:04:25 P10] error: Proyecto validation failed: CTECI: Cast to [undefined] failed for value "[null,null,null,null,null]" at path "CTECI"
+[10/26/2020, 5:40:47 P10] info: MongoDB inicializado
+[10/26/2020, 5:40:47 P10] info: Express inicializado
+[10/26/2020, 5:40:47 P10] info: 
+                ################################################
+                🛡️  HTTP listening on port: 5000 🛡️ 
+                ################################################
+              
+[10/26/2020, 5:43:55 P10] info: MongoDB inicializado
+[10/26/2020, 5:43:55 P10] info: Express inicializado
+[10/26/2020, 5:43:55 P10] info: 
+                ################################################
+                🛡️  HTTP listening on port: 5000 🛡️ 
+                ################################################
+              
+[10/26/2020, 5:50:53 P10] info: MongoDB inicializado
+[10/26/2020, 5:50:53 P10] info: Express inicializado
+[10/26/2020, 5:50:53 P10] info: 
+                ################################################
+                🛡️  HTTP listening on port: 5000 🛡️ 
+                ################################################
+              
+[10/26/2020, 6:20:44 P10] info: MongoDB inicializado
+[10/26/2020, 6:21:41 P10] info: MongoDB inicializado
+[10/26/2020, 6:21:41 P10] info: Express inicializado
+[10/26/2020, 6:21:41 P10] info: 
+                ################################################
+                🛡️  HTTP listening on port: 5000 🛡️ 
+                ################################################
+              
+[10/26/2020, 6:25:32 P10] info: MongoDB inicializado
+[10/26/2020, 6:25:32 P10] info: Express inicializado
+[10/26/2020, 6:25:32 P10] info: 
+                ################################################
+                🛡️  HTTP listening on port: 5000 🛡️ 
+                ################################################
+              
+[10/26/2020, 6:27:34 P10] info: MongoDB inicializado
+[10/26/2020, 6:27:34 P10] info: Express inicializado
+[10/26/2020, 6:27:34 P10] info: 
+                ################################################
+                🛡️  HTTP listening on port: 5000 🛡️ 
+                ################################################
+              
+[10/26/2020, 6:29:01 P10] info: MongoDB inicializado
+[10/26/2020, 6:29:01 P10] info: Express inicializado
+[10/26/2020, 6:29:01 P10] info: 
+                ################################################
+                🛡️  HTTP listening on port: 5000 🛡️ 
+                ################################################
+              
+[10/26/2020, 6:29:59 P10] info: MongoDB inicializado
+[10/26/2020, 6:29:59 P10] info: Express inicializado
+[10/26/2020, 6:29:59 P10] info: 
+                ################################################
+                🛡️  HTTP listening on port: 5000 🛡️ 
+                ################################################
+              
+[10/26/2020, 7:17:28 P10] info: MongoDB inicializado
+[10/26/2020, 7:17:28 P10] info: Express inicializado
+[10/26/2020, 7:17:28 P10] info: 
+                ################################################
+                🛡️  HTTP listening on port: 5000 🛡️ 
+                ################################################
+              
+[10/26/2020, 7:21:09 P10] info: MongoDB inicializado
+[10/26/2020, 7:21:09 P10] info: Express inicializado
+[10/26/2020, 7:21:09 P10] info: 
+                ################################################
+                🛡️  HTTP listening on port: 5000 🛡️ 
+                ################################################
+              

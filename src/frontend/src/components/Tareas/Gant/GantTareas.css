@@ -1,0 +1,59 @@
+/* SIDE BAR CON CAPITULOS Y PARTIDAS */
+.timeLine-side-task-row > div {
+  position: absolute;
+  background-color: whitesmoke;
+  border-bottom-width: 0.02px;
+  border-bottom-color: rgb(112, 112, 112);
+  border-bottom-style: dotted;
+  color: black;
+  text-align: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  outline: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  min-width: fit-content;
+}
+.timeLine-side {
+  flex: 1 0 50% 50%;
+  min-width: 50%;
+  display: flex;
+  flex-direction: column;
+  border-right: solid 1px rgb(207, 207, 205);
+}
+
+/* PARTE PRINCIPAL DE LA LINEA TEMPORAL, BARRITAS */
+.timeLine-main-data-task {
+  position: absolute;
+  border-radius: 14px;
+  text-align: center;
+  color: black;
+}
+.timeLine-main-data-row {
+  position: absolute;
+  font-size: 9.5px;
+  font-size-adjust: inherit;
+}
+
+/*
+.timeLine-main-data-container > div {
+  position: relative;
+  top: 0;
+  left: 0;
+  background-color: rgb(255, 255, 255);
+}
+*/
+/*
+.timeLine-main-data-task-side > div {
+  position: absolute;
+  width: 1000px;
+  cursor: col-resize;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: black;
+}
+*/

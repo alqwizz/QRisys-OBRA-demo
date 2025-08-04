@@ -1,0 +1,12 @@
+.list_item .date-info{
+    background-color:var(--border-color);
+    font-size:.8em;
+    border-top-right-radius: 20px;
+    padding:8px 4px;
+}
+
+.list_item .parte-info{
+    padding:8px 15px;
+    box-shadow:var(--shadow-1);
+    margin-bottom:8px;
+}

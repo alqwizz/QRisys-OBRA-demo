@@ -1,0 +1,40 @@
+#qr-loader{
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index:1060;
+}
+#qr-loader-bck{
+    width:100%;
+    height:100%;
+    position:absolute;
+    top:0;
+    left:0;
+    background-color:rgba(0,0,0,0.5);
+}
+#qr-loader-container .loader{
+    height:50px;
+    width:50px;
+}
+#qr-loader-container .loader>svg{
+    fill:none;
+    stroke-dasharray: 100;
+    stroke-dashoffset: 3;
+    stroke-width:7px;
+    stroke:var(--orange);
+    animation:gira .7s infinite ease-out;
+}
+
+@keyframes gira {
+    0%{
+        transform:rotate(0);
+    }
+    100%{
+        transform:rotate(360deg);
+    }
+}

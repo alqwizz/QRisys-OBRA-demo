@@ -1,0 +1,2 @@
+export const reporteEmpty = { completar: false, numero: '', descripcion: '', unidad: false, porcentaje: true }
+export const reporteFalse = { numero: false, descripcion: false, unidad: false, porcentaje: false }
